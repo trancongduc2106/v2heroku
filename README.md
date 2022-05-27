@@ -41,8 +41,8 @@ Các đối số sẽ dùng trong quá trình cài đặt。
 
 | Đối số | Mặc định | Diễn giải |
 | :--- | :--- | :--- |
-| `ID` | `ad806487-2d26-4636-98b6-ab85cc8521f7` | VMess user ID |
-| `AID` | `64` | AlterID，Số từ 0 đến 65535 |
+| `ID` | `77d94d41-dd8c-48e7-8394-512c67b096d9` | VMess user ID |
+| `AID` | `0` | AlterID，Số từ 0 đến 65535 |
 | `WSPATH` | `/` | |
 
 ## Truy cập CloudFlare
