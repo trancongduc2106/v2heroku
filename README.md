@@ -1,5 +1,5 @@
 # Giới thiệu:
-Đây là một repository được fork lại từ [[https://github.com/bclswl0827/v2ray-heroku](https://github.com/bclswl0827/v2ray-heroku)](https://github.com/theuoa/v2heroku) với chức năng là tạo ra một server V2Ray trên heroku một cách đơn giản nhất.
+Đây là một repository được fork lại từ https://github.com/theuoa/v2heroku với chức năng là tạo ra một server V2Ray trên heroku một cách đơn giản nhất.
 
 Heroku sẽ không khuyến khích việc này nên các bạn cần phải fork lại dự án này để không bị heroku chặn.
 
